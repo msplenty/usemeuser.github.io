@@ -1,1 +1,1 @@
-# uchty draniu
+# uchty.draniu
